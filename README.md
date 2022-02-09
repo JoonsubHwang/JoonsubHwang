@@ -12,6 +12,6 @@
 
 <br><br><br>
 
-3. [Esthers.LA](https://github.com/JoonsubHwang/esthers-la) (In development) <br>
+3. Esthers.LA *(In development)* <br>
 [GitHub Repo](https://github.com/JoonsubHwang/esthers-la) <br><br>
 ![Preview - desktop](https://cdn.discordapp.com/attachments/791296471718821899/891071667013562389/Untitled1.png)
