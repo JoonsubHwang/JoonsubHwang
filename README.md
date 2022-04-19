@@ -4,7 +4,7 @@
 
 
 
-1. [IP Locator](https://btc-trader-sim.herokuapp.com/) <br>
+1. [IP Locator](https://ip-locator-kayden.vercel.app) <br>
 [GitHub](https://github.com/JoonsubHwang/ip-locator) <br><br>
 ![IP Locator preview](https://raw.githubusercontent.com/JoonsubHwang/ip-locator/main/preivew-landscape.png)
 
