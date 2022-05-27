@@ -20,4 +20,4 @@
 
 3. [100 Days CSS](https://100dayscss.com/progress/joonsubhwang) <br>
 [GitHub](https://github.com/JoonsubHwang/100-days-css) <br><br>
-![100 Days Css preview](https://i.gyazo.com/9f3ab0c5480cd951e6447354c658cd4b.gif)
+![100 Days Css preview](https://i.gyazo.com/46f1195b4fd134cf124185f3823a3ae1.gif)
